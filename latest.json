@@ -1,9 +1,9 @@
 {
-  "version": "0.2.0",
-  "released": "2026-10-31T03:23:31.218Z",
+  "version": "0.2.1",
+  "released": "2026-10-31T03:30:51.806Z",
   "app": {
-    "file": "0.2.0/app.js",
-    "sha256": "a8adcf6c947e9dd891dfb6267b88cddcafd0d67f5f7a5705278d59b689d0704a"
+    "file": "0.2.1/app.js",
+    "sha256": "947759bb76f7d9a1523fc5aef2581b79ec22cd2f9f1ab75ad141ec4609d8c9b8"
   },
   "helper": {
     "file": "0.2.0/helper.cjs",
