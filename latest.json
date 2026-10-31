@@ -1,0 +1,14 @@
+{
+  "version": "0.2.0",
+  "released": "2026-10-31T03:23:31.218Z",
+  "app": {
+    "file": "0.2.0/app.js",
+    "sha256": "a8adcf6c947e9dd891dfb6267b88cddcafd0d67f5f7a5705278d59b689d0704a"
+  },
+  "helper": {
+    "file": "0.2.0/helper.cjs",
+    "sha256": "713caf393d2c69c2652f9902329ce247e5f2ec512025a54a8fc346d40a6f61a9",
+    "version": "0.2.0",
+    "source": "e1761c6aeef24f67d1784d74e728e19e7dba0f2d1ec0216e9524092130210f39"
+  }
+}
