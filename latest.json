@@ -1,14 +1,14 @@
 {
-  "version": "0.2.1",
-  "released": "2026-10-31T03:30:51.806Z",
+  "version": "0.2.2",
+  "released": "2026-10-31T03:39:19.447Z",
   "app": {
-    "file": "0.2.1/app.js",
-    "sha256": "947759bb76f7d9a1523fc5aef2581b79ec22cd2f9f1ab75ad141ec4609d8c9b8"
+    "file": "0.2.2/app.js",
+    "sha256": "3482b0d4e45d9bde243f6118b4f388544319815d1c1f3bc3346d496463f1677b"
   },
   "helper": {
-    "file": "0.2.0/helper.cjs",
-    "sha256": "713caf393d2c69c2652f9902329ce247e5f2ec512025a54a8fc346d40a6f61a9",
-    "version": "0.2.0",
-    "source": "e1761c6aeef24f67d1784d74e728e19e7dba0f2d1ec0216e9524092130210f39"
+    "file": "0.2.2/helper.cjs",
+    "sha256": "f36c16632f974b5abd89a572da40e6c00a8317669d06cb62b91d13333ce219a0",
+    "version": "0.2.2",
+    "source": "c595f0819e1a0b16206256e739436735128442123b3da37d199c203884fa76e1"
   }
 }
