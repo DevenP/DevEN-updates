@@ -1,14 +1,14 @@
 {
   "blocked": [],
   "blockedHelpers": [],
-  "version": "0.3.5",
-  "released": "2026-11-02T15:32:11.381Z",
+  "version": "0.3.6",
+  "released": "2026-11-02T16:24:24.391Z",
   "notes": [
-    "Settings: removed the helper address box from Advanced"
+    "Kids profile: genre rows are full now"
   ],
   "app": {
-    "file": "0.3.5/app.js",
-    "sha256": "d4a80b10881cbe9fd99362657b0ddb0f85d7e4b00864d132f40179842bf9c17f"
+    "file": "0.3.6/app.js",
+    "sha256": "f29318e2bf2b8dab4657ac2c270c3f2613c7d049b46c418d7ecf57bad14ba46b"
   },
   "helper": {
     "file": "0.3.3/helper.cjs",
