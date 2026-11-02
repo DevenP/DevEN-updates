@@ -1,14 +1,18 @@
 {
   "blocked": [],
   "blockedHelpers": [],
-  "version": "0.3.7",
-  "released": "2026-11-02T16:54:52.105Z",
+  "version": "0.3.8",
+  "released": "2026-11-02T18:07:51.737Z",
   "notes": [
-    "List view: one compact line per title, many more on screen"
+    "More like this and Cast on title pages; OK on a cast member shows what else they're in",
+    "Are you still watching? after three episodes in a row (Settings > Playback)",
+    "Autoplay next episode now works",
+    "Return on a scrolled page goes back to its top first",
+    "The next row always peeks at the bottom"
   ],
   "app": {
-    "file": "0.3.7/app.js",
-    "sha256": "2bbe172417e46e8547bf6ee1f1311f27b44aad0554652899254be2204217eb92"
+    "file": "0.3.8/app.js",
+    "sha256": "1e53cd04f1202d47e4269b6ec19457dc073c455c3a9e3f42dde7f4aee8c76f91"
   },
   "helper": {
     "file": "0.3.3/helper.cjs",
