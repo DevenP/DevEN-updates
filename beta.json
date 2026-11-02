@@ -1,16 +1,19 @@
 {
   "blocked": [],
   "blockedHelpers": [],
-  "version": "0.3.0",
-  "released": "2026-11-02T06:22:32.540Z",
+  "version": "0.3.1",
+  "released": "2026-11-02T07:01:42.315Z",
   "notes": [
-    "Release notes like these",
-    "Get updates early (Settings > About)",
-    "Faster trailers on tiles"
+    "Search finds everything, with Movies, Series and Channels tabs",
+    "See all: list view, a search box, and no more stopping at 14",
+    "Next episode plays in order and stops after the latest",
+    "Reorganised Settings, with Autoplay, languages and history",
+    "Kids profiles: set when adding, and a fuller Home",
+    "A third of the size, so it starts faster"
   ],
   "app": {
-    "file": "0.3.0/app.js",
-    "sha256": "30d8be3efcc6137dc3fae30e02e6042a84e7807491ee5ef8048fcb80972edc28"
+    "file": "0.3.1/app.js",
+    "sha256": "25b3f2f81395a1259dd93802a1d40d346af34dfc2c9779013a40d70887ef1bad"
   },
   "helper": {
     "file": "0.3.0/helper.cjs",
