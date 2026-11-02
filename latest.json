@@ -1,16 +1,14 @@
 {
   "blocked": [],
   "blockedHelpers": [],
-  "version": "0.3.11",
-  "released": "2026-11-02T20:01:07.120Z",
+  "version": "0.3.12",
+  "released": "2026-11-02T22:07:25.120Z",
   "notes": [
-    "Settings > Provider > Get free keys: a step-by-step guide on your phone, and the TV checks each key",
-    "The CAM / TS badge on Home's banner and title pages too",
-    "TMDB credit in Updates & about"
+    "Problems on a TV now reach the ntfy check-ins on their own"
   ],
   "app": {
-    "file": "0.3.11/app.js",
-    "sha256": "7dd7fae6eec39b5f7e65034c50ec6d7ea29222f04f17cb634bf8518ec4d9bab5"
+    "file": "0.3.12/app.js",
+    "sha256": "964260276c724053e61c8bfa49da6cf547e6372bf29a1b6a1178fa5f609424c4"
   },
   "helper": {
     "file": "0.3.11/helper.cjs",
