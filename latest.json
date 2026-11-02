@@ -1,14 +1,22 @@
 {
-  "version": "0.2.9",
-  "released": "2026-10-31T20:04:35.757Z",
+  "blocked": [],
+  "blockedHelpers": [],
+  "version": "0.3.0",
+  "released": "2026-11-02T06:22:32.540Z",
+  "notes": [
+    "Release notes like these",
+    "Get updates early (Settings > About)",
+    "Faster trailers on tiles"
+  ],
   "app": {
-    "file": "0.2.9/app.js",
-    "sha256": "b36d95349891ffd25f6c40532badac72862a4fcb2979f63d01889c67b3b57fc3"
+    "file": "0.3.0/app.js",
+    "sha256": "30d8be3efcc6137dc3fae30e02e6042a84e7807491ee5ef8048fcb80972edc28"
   },
   "helper": {
-    "file": "0.2.7/helper.cjs",
-    "sha256": "933c1089fd418f62ccd54f0514fefcf8303e85e951c5ccab8d8eaf233fc933dd",
-    "version": "0.2.7",
-    "source": "f86985c2c3dac27ea1c39ec74f3ddfaded83e0c704f10a9a186edd90f5ab606b"
-  }
+    "file": "0.3.0/helper.cjs",
+    "sha256": "fa62e796b44021f9c5572f7d663356e7c27eae00f9fd3cc6d5ec5ce72cc33168",
+    "version": "0.3.0",
+    "source": "b1c8c3310147845d2477ef297aa41566ce5572463141435f0aa0ab83037111e3"
+  },
+  "rollout": 100
 }
