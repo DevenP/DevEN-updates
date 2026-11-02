@@ -1,18 +1,17 @@
 {
   "blocked": [],
   "blockedHelpers": [],
-  "version": "0.3.8",
-  "released": "2026-11-02T18:07:51.737Z",
+  "version": "0.3.9",
+  "released": "2026-11-02T19:02:06.367Z",
   "notes": [
-    "More like this and Cast on title pages; OK on a cast member shows what else they're in",
-    "Are you still watching? after three episodes in a row (Settings > Playback)",
-    "Autoplay next episode now works",
-    "Return on a scrolled page goes back to its top first",
-    "The next row always peeks at the bottom"
+    "Fixed: the remote getting stuck on a cast member's page opened from a show",
+    "Return from an episode goes back to the episodes list",
+    "A show's page says Loading episodes while it loads",
+    "My List and the side menu: the remote lands where it should"
   ],
   "app": {
-    "file": "0.3.8/app.js",
-    "sha256": "1e53cd04f1202d47e4269b6ec19457dc073c455c3a9e3f42dde7f4aee8c76f91"
+    "file": "0.3.9/app.js",
+    "sha256": "7fff2efb8c5b232393626052cdda96b037883c504d166a0e3d93354ad92882e1"
   },
   "helper": {
     "file": "0.3.3/helper.cjs",
