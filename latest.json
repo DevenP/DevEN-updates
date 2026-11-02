@@ -1,20 +1,14 @@
 {
   "blocked": [],
   "blockedHelpers": [],
-  "version": "0.3.4",
-  "released": "2026-11-02T07:32:50.790Z",
+  "version": "0.3.5",
+  "released": "2026-11-02T15:32:11.381Z",
   "notes": [
-    "Search finds everything, with Movies, Series and Channels tabs",
-    "See all: list view, a search box, and no more stopping at 14",
-    "Next episode plays in order and stops after the latest",
-    "Reorganised Settings, with Autoplay, languages and history",
-    "Kids profiles: the provider's kids titles, set when adding a profile",
-    "A third of the size, so it starts faster",
-    "Your own TMDB and OpenSubtitles keys in Settings"
+    "Settings: removed the helper address box from Advanced"
   ],
   "app": {
-    "file": "0.3.4/app.js",
-    "sha256": "e6520d787071ec1ea158b090fdcf4ba27378e45e9314e8ef1298a4606bc40032"
+    "file": "0.3.5/app.js",
+    "sha256": "d4a80b10881cbe9fd99362657b0ddb0f85d7e4b00864d132f40179842bf9c17f"
   },
   "helper": {
     "file": "0.3.3/helper.cjs",
