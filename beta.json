@@ -1,19 +1,19 @@
 {
   "blocked": [],
   "blockedHelpers": [],
-  "version": "0.3.2",
-  "released": "2026-11-02T07:14:14.789Z",
+  "version": "0.3.3",
+  "released": "2026-11-02T07:25:35.444Z",
   "notes": [
-    "Kids profiles: the provider's kids movies and shows, not just a few popular ones"
+    "Your own TMDB and OpenSubtitles keys in Settings > Provider"
   ],
   "app": {
-    "file": "0.3.2/app.js",
-    "sha256": "8009c9e53b0eaf683f84476d78e754f8289914f86c57ae59348729f97505dec8"
+    "file": "0.3.3/app.js",
+    "sha256": "78d65fd283e265a0b2dfbf48659f923cbacafc63e09e47cb96594c76ff6e24f5"
   },
   "helper": {
-    "file": "0.3.0/helper.cjs",
-    "sha256": "fa62e796b44021f9c5572f7d663356e7c27eae00f9fd3cc6d5ec5ce72cc33168",
-    "version": "0.3.0",
-    "source": "b1c8c3310147845d2477ef297aa41566ce5572463141435f0aa0ab83037111e3"
+    "file": "0.3.3/helper.cjs",
+    "sha256": "3964cdd5ff1d2b9345837b68eab66477475d786c2d906bfc6f6dd811aec96f4e",
+    "version": "0.3.3",
+    "source": "2b0cce194c14fd980db0b293d4b981c41f179519b160e434ec628806d0bfd8b8"
   }
 }
