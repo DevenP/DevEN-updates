@@ -1,21 +1,22 @@
 {
   "blocked": [],
   "blockedHelpers": [],
-  "version": "0.3.10",
-  "released": "2026-11-02T19:40:28.349Z",
+  "version": "0.3.11",
+  "released": "2026-11-02T20:01:07.120Z",
   "notes": [
-    "Movies and shows show what copy they are: CAM, TS, TC, screener (amber) and 4K",
-    "When the TV can't play a copy, it says so and suggests another version"
+    "Settings > Provider > Get free keys: a step-by-step guide on your phone, and the TV checks each key",
+    "The CAM / TS badge on Home's banner and title pages too",
+    "TMDB credit in Updates & about"
   ],
   "app": {
-    "file": "0.3.10/app.js",
-    "sha256": "c8ca91868dd127f97b08c68ef8a1641e4dda295b599908475de71a1cf436728f"
+    "file": "0.3.11/app.js",
+    "sha256": "7dd7fae6eec39b5f7e65034c50ec6d7ea29222f04f17cb634bf8518ec4d9bab5"
   },
   "helper": {
-    "file": "0.3.3/helper.cjs",
-    "sha256": "3964cdd5ff1d2b9345837b68eab66477475d786c2d906bfc6f6dd811aec96f4e",
-    "version": "0.3.3",
-    "source": "2b0cce194c14fd980db0b293d4b981c41f179519b160e434ec628806d0bfd8b8"
+    "file": "0.3.11/helper.cjs",
+    "sha256": "07299b9b2fd13c817983675c1993b71b5f8bad8255f30079bec8bffbda55e477",
+    "version": "0.3.11",
+    "source": "8248e12b5690b957bfa8295b941f0d50a1c5c945083605b172aab0cb2cb3a5b6"
   },
   "rollout": 100
 }
