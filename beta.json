@@ -1,19 +1,14 @@
 {
   "blocked": [],
   "blockedHelpers": [],
-  "version": "0.3.1",
-  "released": "2026-11-02T07:01:42.315Z",
+  "version": "0.3.2",
+  "released": "2026-11-02T07:14:14.789Z",
   "notes": [
-    "Search finds everything, with Movies, Series and Channels tabs",
-    "See all: list view, a search box, and no more stopping at 14",
-    "Next episode plays in order and stops after the latest",
-    "Reorganised Settings, with Autoplay, languages and history",
-    "Kids profiles: set when adding, and a fuller Home",
-    "A third of the size, so it starts faster"
+    "Kids profiles: the provider's kids movies and shows, not just a few popular ones"
   ],
   "app": {
-    "file": "0.3.1/app.js",
-    "sha256": "25b3f2f81395a1259dd93802a1d40d346af34dfc2c9779013a40d70887ef1bad"
+    "file": "0.3.2/app.js",
+    "sha256": "8009c9e53b0eaf683f84476d78e754f8289914f86c57ae59348729f97505dec8"
   },
   "helper": {
     "file": "0.3.0/helper.cjs",
