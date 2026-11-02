@@ -1,14 +1,14 @@
 {
   "blocked": [],
   "blockedHelpers": [],
-  "version": "0.3.12",
-  "released": "2026-11-02T22:07:25.120Z",
+  "version": "0.3.13",
+  "released": "2026-11-02T22:21:33.930Z",
   "notes": [
-    "Problems on a TV now reach the ntfy check-ins on their own"
+    "A key that doesn't work is caught when you save it"
   ],
   "app": {
-    "file": "0.3.12/app.js",
-    "sha256": "964260276c724053e61c8bfa49da6cf547e6372bf29a1b6a1178fa5f609424c4"
+    "file": "0.3.13/app.js",
+    "sha256": "908cf4297f0e24b0985712f5cdcda8b64f858035b85ab15b87c032e8e20551e2"
   },
   "helper": {
     "file": "0.3.11/helper.cjs",
