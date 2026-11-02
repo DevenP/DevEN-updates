@@ -1,14 +1,14 @@
 {
   "blocked": [],
   "blockedHelpers": [],
-  "version": "0.3.6",
-  "released": "2026-11-02T16:24:24.391Z",
+  "version": "0.3.7",
+  "released": "2026-11-02T16:54:52.105Z",
   "notes": [
-    "Kids profile: genre rows are full now"
+    "List view: one compact line per title, many more on screen"
   ],
   "app": {
-    "file": "0.3.6/app.js",
-    "sha256": "f29318e2bf2b8dab4657ac2c270c3f2613c7d049b46c418d7ecf57bad14ba46b"
+    "file": "0.3.7/app.js",
+    "sha256": "2bbe172417e46e8547bf6ee1f1311f27b44aad0554652899254be2204217eb92"
   },
   "helper": {
     "file": "0.3.3/helper.cjs",
