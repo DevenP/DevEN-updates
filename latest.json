@@ -1,14 +1,15 @@
 {
   "blocked": [],
   "blockedHelpers": [],
-  "version": "0.3.13",
-  "released": "2026-11-02T22:21:33.930Z",
+  "version": "0.3.14",
+  "released": "2026-11-02T22:42:15.350Z",
   "notes": [
-    "A key that doesn't work is caught when you save it"
+    "Back hides the player controls before leaving",
+    "Arrows no longer jump into the side menu"
   ],
   "app": {
-    "file": "0.3.13/app.js",
-    "sha256": "908cf4297f0e24b0985712f5cdcda8b64f858035b85ab15b87c032e8e20551e2"
+    "file": "0.3.14/app.js",
+    "sha256": "450c5f650c19f003408481d4aec94457ab1a4b1a65becb128e12e55da8b65840"
   },
   "helper": {
     "file": "0.3.11/helper.cjs",
