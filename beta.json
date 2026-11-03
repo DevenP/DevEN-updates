@@ -1,19 +1,19 @@
 {
   "blocked": [],
   "blockedHelpers": [],
-  "version": "0.3.15",
-  "released": "2026-11-03T01:44:44.185Z",
+  "version": "0.3.16",
+  "released": "2026-11-03T02:05:06.385Z",
   "notes": [
-    "Support for subscriptions locked to a MAG box (paste the box details in phone setup)"
+    "MAG box setup: only the two device IDs needed, tidier phone form"
   ],
   "app": {
-    "file": "0.3.15/app.js",
-    "sha256": "5ff8c9dba3fc03bc1a6e4475c9abadc25d681cce27cca891497f7d088a13e9d0"
+    "file": "0.3.16/app.js",
+    "sha256": "e43dfca84866c31e7172261181a756b47d178e7e2e54fed77fd55f253939c5cc"
   },
   "helper": {
-    "file": "0.3.15/helper.cjs",
-    "sha256": "4378e9619e0536a658f1c92b596aee2a5236b209758ee01f27ca935af748f9c0",
-    "version": "0.3.15",
-    "source": "7424b2cf1ab2886aafc83314367f95f50e47b44964468bd2a51294843453379e"
+    "file": "0.3.16/helper.cjs",
+    "sha256": "addd969aeb927155424a705b6447d5e96ea791efb8c8623ae328aded27ba99cc",
+    "version": "0.3.16",
+    "source": "4f0eb37668e39689f149a944c5b2f69b989abf2618585c8732d611d1f1af877c"
   }
 }
