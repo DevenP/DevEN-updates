@@ -1,21 +1,20 @@
 {
   "blocked": [],
   "blockedHelpers": [],
-  "version": "0.3.14",
-  "released": "2026-11-02T22:42:15.350Z",
+  "version": "0.3.15",
+  "released": "2026-11-03T01:44:44.185Z",
   "notes": [
-    "Back hides the player controls before leaving",
-    "Arrows no longer jump into the side menu"
+    "Support for subscriptions locked to a MAG box (paste the box details in phone setup)"
   ],
   "app": {
-    "file": "0.3.14/app.js",
-    "sha256": "450c5f650c19f003408481d4aec94457ab1a4b1a65becb128e12e55da8b65840"
+    "file": "0.3.15/app.js",
+    "sha256": "5ff8c9dba3fc03bc1a6e4475c9abadc25d681cce27cca891497f7d088a13e9d0"
   },
   "helper": {
-    "file": "0.3.11/helper.cjs",
-    "sha256": "07299b9b2fd13c817983675c1993b71b5f8bad8255f30079bec8bffbda55e477",
-    "version": "0.3.11",
-    "source": "8248e12b5690b957bfa8295b941f0d50a1c5c945083605b172aab0cb2cb3a5b6"
+    "file": "0.3.15/helper.cjs",
+    "sha256": "4378e9619e0536a658f1c92b596aee2a5236b209758ee01f27ca935af748f9c0",
+    "version": "0.3.15",
+    "source": "7424b2cf1ab2886aafc83314367f95f50e47b44964468bd2a51294843453379e"
   },
   "rollout": 100
 }
