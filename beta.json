@@ -1,16 +1,16 @@
 {
   "blocked": [],
   "blockedHelpers": [],
-  "version": "0.3.17",
-  "released": "2026-11-04T02:17:33.478Z",
+  "version": "0.3.18",
+  "released": "2026-11-04T02:44:34.388Z",
   "notes": [
-    "Much smoother home-screen scrolling",
-    "Quick category picker to jump to any provider group",
-    "Fixes to scrolling and trailers"
+    "Movies & Series: Search and a quick Categories picker in the top bar",
+    "Categories in your provider's own order",
+    "Back from a category returns to the category list"
   ],
   "app": {
-    "file": "0.3.17/app.js",
-    "sha256": "29355663354123fb49be1f43acaf3a1ceb1948c29065180266e5b1ddb8deff23"
+    "file": "0.3.18/app.js",
+    "sha256": "9c676e6d2e9e7289e5080986096be33a0ae2f2e769a68c581f4bb155d8cfb212"
   },
   "helper": {
     "file": "0.3.17/helper.cjs",
