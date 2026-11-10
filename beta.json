@@ -1,16 +1,18 @@
 {
   "blocked": [],
   "blockedHelpers": [],
-  "version": "0.3.18",
-  "released": "2026-11-04T02:44:34.388Z",
+  "version": "0.3.19",
+  "released": "2026-11-10T08:59:48.441Z",
   "notes": [
-    "Movies & Series: Search and a quick Categories picker in the top bar",
-    "Categories in your provider's own order",
-    "Back from a category returns to the category list"
+    "New look: the title you're on grows into a big card and plays its trailer",
+    "Rows remember where you were, and Recently added shows big artwork too",
+    "Press volume up while browsing to hear trailers",
+    "Adult groups are locked behind your provider's PIN",
+    "Smoother scrolling when you hold the arrows"
   ],
   "app": {
-    "file": "0.3.18/app.js",
-    "sha256": "9c676e6d2e9e7289e5080986096be33a0ae2f2e769a68c581f4bb155d8cfb212"
+    "file": "0.3.19/app.js",
+    "sha256": "5e83f1c277158d486fe9034ed2179f5be0229bc8a435ab81bda49d661eed5cae"
   },
   "helper": {
     "file": "0.3.17/helper.cjs",
