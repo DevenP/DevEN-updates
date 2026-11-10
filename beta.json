@@ -1,18 +1,14 @@
 {
   "blocked": [],
   "blockedHelpers": [],
-  "version": "0.3.19",
-  "released": "2026-11-10T08:59:48.441Z",
+  "version": "0.3.20",
+  "released": "2026-11-10T09:16:03.593Z",
   "notes": [
-    "New look: the title you're on grows into a big card and plays its trailer",
-    "Rows remember where you were, and Recently added shows big artwork too",
-    "Press volume up while browsing to hear trailers",
-    "Adult groups are locked behind your provider's PIN",
-    "Smoother scrolling when you hold the arrows"
+    "The row you're on now stays in the same place as you scroll, like Netflix"
   ],
   "app": {
-    "file": "0.3.19/app.js",
-    "sha256": "5e83f1c277158d486fe9034ed2179f5be0229bc8a435ab81bda49d661eed5cae"
+    "file": "0.3.20/app.js",
+    "sha256": "4bd5a608ee91b7225bf653aeb7bc27f73a77a7539a16971471049ba503a220cf"
   },
   "helper": {
     "file": "0.3.17/helper.cjs",
