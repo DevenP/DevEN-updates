@@ -1,14 +1,18 @@
 {
   "blocked": [],
   "blockedHelpers": [],
-  "version": "0.3.21",
-  "released": "2026-11-10T09:40:45.578Z",
+  "version": "0.3.22",
+  "released": "2026-11-10T09:52:29.446Z",
   "notes": [
-    "Adult channels no longer slip into All channels"
+    "Live TV shows what's on under every channel",
+    "Search and TV guide buttons on Live TV",
+    "Each channel group remembers where you were",
+    "Favourite and recent channels on Home show what's on",
+    "Back from Search returns to the page you came from"
   ],
   "app": {
-    "file": "0.3.21/app.js",
-    "sha256": "a2d18e85696dbe921a5965f005161d363288b4acf29e37768425e9d1ac05f648"
+    "file": "0.3.22/app.js",
+    "sha256": "56e5e9eb4020fd5307c727245f55078c515cde1467647ed1092b80be6c2824c3"
   },
   "helper": {
     "file": "0.3.17/helper.cjs",
