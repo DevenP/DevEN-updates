@@ -1,14 +1,14 @@
 {
   "blocked": [],
   "blockedHelpers": [],
-  "version": "0.3.20",
-  "released": "2026-11-10T09:16:03.593Z",
+  "version": "0.3.21",
+  "released": "2026-11-10T09:40:45.578Z",
   "notes": [
-    "The row you're on now stays in the same place as you scroll, like Netflix"
+    "Adult channels no longer slip into All channels"
   ],
   "app": {
-    "file": "0.3.20/app.js",
-    "sha256": "4bd5a608ee91b7225bf653aeb7bc27f73a77a7539a16971471049ba503a220cf"
+    "file": "0.3.21/app.js",
+    "sha256": "a2d18e85696dbe921a5965f005161d363288b4acf29e37768425e9d1ac05f648"
   },
   "helper": {
     "file": "0.3.17/helper.cjs",
