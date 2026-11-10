@@ -1,23 +1,25 @@
 {
   "blocked": [],
   "blockedHelpers": [],
-  "version": "0.3.22",
-  "released": "2026-11-10T09:52:29.446Z",
+  "version": "0.3.23",
+  "released": "2026-11-10T13:27:40.163Z",
   "notes": [
-    "Live TV shows what's on under every channel",
-    "Search and TV guide buttons on Live TV",
-    "Each channel group remembers where you were",
-    "Favourite and recent channels on Home show what's on",
-    "Back from Search returns to the page you came from"
+    "The Android app can now update itself: Settings › Updates & about",
+    "Updates are checked shortly after DevEN opens"
   ],
   "app": {
-    "file": "0.3.22/app.js",
-    "sha256": "56e5e9eb4020fd5307c727245f55078c515cde1467647ed1092b80be6c2824c3"
+    "file": "0.3.23/app.js",
+    "sha256": "bdd5c05f5544586a379ac9619dbb137d52e05587c7d73252b3572d4e0621e226"
   },
   "helper": {
     "file": "0.3.17/helper.cjs",
     "sha256": "655b72f63f67abe4042473efd16d5d39080f982262eca3cdb60623b862945bf5",
     "version": "0.3.17",
     "source": "bd27eb84c7761f6af7c679c4a23feee48ba75ebe94273f3cca4cc2acb5998f20"
+  },
+  "android": {
+    "version": "0.3.23",
+    "file": "0.3.23/DevEN.apk",
+    "sha256": "f9834fdfe743d4912349ced4f8f50e824fcb256bf000322ef252c79ceb53b192"
   }
 }
