@@ -1,25 +1,30 @@
 {
   "blocked": [],
   "blockedHelpers": [],
-  "version": "0.3.23",
-  "released": "2026-11-10T13:27:40.163Z",
-  "notes": [
-    "The Android app can now update itself: Settings › Updates & about",
-    "Updates are checked shortly after DevEN opens"
-  ],
-  "app": {
-    "file": "0.3.23/app.js",
-    "sha256": "bdd5c05f5544586a379ac9619dbb137d52e05587c7d73252b3572d4e0621e226"
-  },
-  "helper": {
-    "file": "0.3.17/helper.cjs",
-    "sha256": "655b72f63f67abe4042473efd16d5d39080f982262eca3cdb60623b862945bf5",
-    "version": "0.3.17",
-    "source": "bd27eb84c7761f6af7c679c4a23feee48ba75ebe94273f3cca4cc2acb5998f20"
-  },
   "android": {
     "version": "0.3.23",
     "file": "0.3.23/DevEN.apk",
     "sha256": "f9834fdfe743d4912349ced4f8f50e824fcb256bf000322ef252c79ceb53b192"
+  },
+  "version": "0.3.24",
+  "released": "2026-11-13T10:59:10.270Z",
+  "notes": [
+    "Rows move like Netflix: the big card stays put and fades, rows glide",
+    "Trailers start sooner",
+    "Other versions (languages) on a title's page",
+    "Show pages say when they're checking for new episodes",
+    "Channels and movies retry once when the provider stumbles",
+    "One tile per show in New episodes on your provider",
+    "Landscape My List, New episodes and Continue watching cards"
+  ],
+  "app": {
+    "file": "0.3.24/app.js",
+    "sha256": "5b25a249be13f5de227669d766b1900207705f3de07e6de4961d0e20da53943c"
+  },
+  "helper": {
+    "file": "0.3.24/helper.cjs",
+    "sha256": "a4b59224057a7d1400d21ca8fed4d61eb6456f9eacc314558e8c41e1d80c5a2a",
+    "version": "0.3.24",
+    "source": "ff14afcf4dc267eccd4fc92a91fd5c529ceee51885085d9a5a7d531ffa41f609"
   }
 }
