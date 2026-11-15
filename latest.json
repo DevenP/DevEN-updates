@@ -6,15 +6,14 @@
     "file": "0.3.25/DevEN.apk",
     "sha256": "af8b39aa250e9e363609c165b4d0ac82e02c6ad1dc5d647ee88f4d8b934a1daa"
   },
-  "version": "0.3.27",
-  "released": "2026-11-15T03:52:29.904Z",
+  "version": "0.3.28",
+  "released": "2026-11-15T04:46:24.024Z",
   "notes": [
-    "See all shows where more titles are loading, and when you've reached the end",
-    "A filter on Movies or Series clears when you switch to another tab"
+    "Search shows each movie or series once, even when your provider has it in several languages or 4K: open it to pick a version"
   ],
   "app": {
-    "file": "0.3.27/app.js",
-    "sha256": "654017452415c26f35beee7a58300d71284222083db61d7740433e52293c3bb0"
+    "file": "0.3.28/app.js",
+    "sha256": "dbd6de952cc6ac81b379b81925388ce3b81af34347d2085ef77e21ec3f9ebca1"
   },
   "helper": {
     "file": "0.3.24/helper.cjs",
