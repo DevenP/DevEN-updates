@@ -6,14 +6,15 @@
     "file": "0.3.29/DevEN.apk",
     "sha256": "d37d25eb5518c778df1d75ac8c577a4ef4cd4b47c74c310ae0ef5eadc5d0a2d5"
   },
-  "version": "0.3.31",
-  "released": "2026-11-15T06:48:23.187Z",
+  "version": "0.3.32",
+  "released": "2026-11-15T19:22:00.318Z",
   "notes": [
-    "When a TV can't update the DevEN app by itself, DevEN gives the Downloader code (9514440) to install it"
+    "An opening animation with a chime while DevEN loads (the sound can be turned off in Settings > Browsing)",
+    "Daily check-in includes how quickly DevEN starts"
   ],
   "app": {
-    "file": "0.3.31/app.js",
-    "sha256": "1b9e74d67fbe55cb94f2617b94787527329292e1328e8d177ccf4332599074d9"
+    "file": "0.3.32/app.js",
+    "sha256": "4d5f4248c7403ca25629b45db9e0b641b9e37d84d0cd983e20621a69fc92186c"
   },
   "helper": {
     "file": "0.3.29/helper.cjs",
