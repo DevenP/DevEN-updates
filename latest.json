@@ -2,24 +2,24 @@
   "blocked": [],
   "blockedHelpers": [],
   "android": {
-    "version": "0.3.25",
-    "file": "0.3.25/DevEN.apk",
-    "sha256": "af8b39aa250e9e363609c165b4d0ac82e02c6ad1dc5d647ee88f4d8b934a1daa"
+    "version": "0.3.29",
+    "file": "0.3.29/DevEN.apk",
+    "sha256": "d37d25eb5518c778df1d75ac8c577a4ef4cd4b47c74c310ae0ef5eadc5d0a2d5"
   },
-  "version": "0.3.28",
-  "released": "2026-11-15T04:46:24.024Z",
+  "version": "0.3.29",
+  "released": "2026-11-15T05:24:32.896Z",
   "notes": [
-    "Search shows each movie or series once, even when your provider has it in several languages or 4K: open it to pick a version"
+    "Full-screen trailers have the player's controls: OK pauses, ◀▶ skip 10 seconds, with the time left"
   ],
   "app": {
-    "file": "0.3.28/app.js",
-    "sha256": "dbd6de952cc6ac81b379b81925388ce3b81af34347d2085ef77e21ec3f9ebca1"
+    "file": "0.3.29/app.js",
+    "sha256": "2005c08d76fabb73c8fd21d69171d7206418618d2054c11550cad41fe7f032db"
   },
   "helper": {
-    "file": "0.3.24/helper.cjs",
-    "sha256": "a4b59224057a7d1400d21ca8fed4d61eb6456f9eacc314558e8c41e1d80c5a2a",
-    "version": "0.3.24",
-    "source": "ff14afcf4dc267eccd4fc92a91fd5c529ceee51885085d9a5a7d531ffa41f609"
+    "file": "0.3.29/helper.cjs",
+    "sha256": "1cdb0b329f0edf0f84e2d07e4137da4f60b4318361aefdf0d3c117aa7db4ae33",
+    "version": "0.3.29",
+    "source": "d1a8281315207b6d3799a7e7da941d12147b21c6e583e4e2873499b05d142439"
   },
   "rollout": 100
 }
