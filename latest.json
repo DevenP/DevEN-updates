@@ -6,14 +6,14 @@
     "file": "0.3.29/DevEN.apk",
     "sha256": "d37d25eb5518c778df1d75ac8c577a4ef4cd4b47c74c310ae0ef5eadc5d0a2d5"
   },
-  "version": "0.3.33",
-  "released": "2026-11-15T19:52:40.860Z",
+  "version": "0.3.34",
+  "released": "2026-11-15T19:58:04.296Z",
   "notes": [
-    "TV guide: Return jumps to the channel group changer; Return again leaves the guide"
+    "Big cards no longer show a broken picture box when a poster link is dead"
   ],
   "app": {
-    "file": "0.3.33/app.js",
-    "sha256": "42fb146cf2868608792ff163b1927d24460d1c732e10b61265002778c4604231"
+    "file": "0.3.34/app.js",
+    "sha256": "0d62b0f34e7f2fcc43acbdd62518b802ff5185ae9ab76bd5699855b1fa926c1d"
   },
   "helper": {
     "file": "0.3.29/helper.cjs",
