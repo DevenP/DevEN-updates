@@ -6,14 +6,15 @@
     "file": "0.3.29/DevEN.apk",
     "sha256": "d37d25eb5518c778df1d75ac8c577a4ef4cd4b47c74c310ae0ef5eadc5d0a2d5"
   },
-  "version": "0.3.29",
-  "released": "2026-11-15T05:24:32.896Z",
+  "version": "0.3.30",
+  "released": "2026-11-15T06:38:52.029Z",
   "notes": [
-    "Full-screen trailers have the player's controls: OK pauses, ◀▶ skip 10 seconds, with the time left"
+    "Rows like Recently added show your saved lists straight away instead of reloading them",
+    "If a TV won't save the setting that lets DevEN update itself, DevEN says so instead of asking again and again"
   ],
   "app": {
-    "file": "0.3.29/app.js",
-    "sha256": "2005c08d76fabb73c8fd21d69171d7206418618d2054c11550cad41fe7f032db"
+    "file": "0.3.30/app.js",
+    "sha256": "96e8d94eb19f2c970a36f714fc33df8a058b1e65d3c3c501eac6a72c8b04af69"
   },
   "helper": {
     "file": "0.3.29/helper.cjs",
