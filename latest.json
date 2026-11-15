@@ -6,17 +6,14 @@
     "file": "0.3.25/DevEN.apk",
     "sha256": "af8b39aa250e9e363609c165b4d0ac82e02c6ad1dc5d647ee88f4d8b934a1daa"
   },
-  "version": "0.3.25",
-  "released": "2026-11-15T03:11:07.150Z",
+  "version": "0.3.26",
+  "released": "2026-11-15T03:35:59.648Z",
   "notes": [
-    "Coming back after 5 minutes away starts DevEN fresh on Home",
-    "Movies and Series filters reset when DevEN starts",
-    "Titles without a wide picture show their poster in the middle of the big card",
-    "Settings shows DevEN's version and the TV app's on their own lines"
+    "Movies and Series: with a language or genre filter, Trending fills its row"
   ],
   "app": {
-    "file": "0.3.25/app.js",
-    "sha256": "c0dba9f117d54a56b49ebbe559760bee27b2fb0bb302b14001838bee5724ff02"
+    "file": "0.3.26/app.js",
+    "sha256": "1649190ff5b203c2f0714b5ac827e5194d3615478a0bc014049ad20120a1e4aa"
   },
   "helper": {
     "file": "0.3.24/helper.cjs",
