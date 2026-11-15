@@ -6,15 +6,14 @@
     "file": "0.3.29/DevEN.apk",
     "sha256": "d37d25eb5518c778df1d75ac8c577a4ef4cd4b47c74c310ae0ef5eadc5d0a2d5"
   },
-  "version": "0.3.32",
-  "released": "2026-11-15T19:22:00.318Z",
+  "version": "0.3.33",
+  "released": "2026-11-15T19:52:40.860Z",
   "notes": [
-    "An opening animation with a chime while DevEN loads (the sound can be turned off in Settings > Browsing)",
-    "Daily check-in includes how quickly DevEN starts"
+    "TV guide: Return jumps to the channel group changer; Return again leaves the guide"
   ],
   "app": {
-    "file": "0.3.32/app.js",
-    "sha256": "4d5f4248c7403ca25629b45db9e0b641b9e37d84d0cd983e20621a69fc92186c"
+    "file": "0.3.33/app.js",
+    "sha256": "42fb146cf2868608792ff163b1927d24460d1c732e10b61265002778c4604231"
   },
   "helper": {
     "file": "0.3.29/helper.cjs",
