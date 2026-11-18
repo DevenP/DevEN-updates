@@ -6,14 +6,15 @@
     "file": "0.3.29/DevEN.apk",
     "sha256": "d37d25eb5518c778df1d75ac8c577a4ef4cd4b47c74c310ae0ef5eadc5d0a2d5"
   },
-  "version": "0.3.34",
-  "released": "2026-11-15T19:58:04.296Z",
+  "version": "0.3.35",
+  "released": "2026-11-18T01:18:26.574Z",
   "notes": [
-    "Big cards no longer show a broken picture box when a poster link is dead"
+    "The app waits longer for the helper after the TV has been asleep",
+    "New episodes shows straight away and checks your shows in the background"
   ],
   "app": {
-    "file": "0.3.34/app.js",
-    "sha256": "0d62b0f34e7f2fcc43acbdd62518b802ff5185ae9ab76bd5699855b1fa926c1d"
+    "file": "0.3.35/app.js",
+    "sha256": "4ae1ecd84fe61491efa60a70a3a57b58fabf715a68030d70640520567409c2bb"
   },
   "helper": {
     "file": "0.3.29/helper.cjs",
